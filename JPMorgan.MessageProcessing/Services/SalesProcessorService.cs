@@ -90,7 +90,7 @@ namespace JPMorgan.MessageProcessing.Services
             }
         }
 
-        private void GenerateReport()
+        public void GenerateReport()
         {
             Console.WriteLine("Start Report ------------------------------------------------------------------------");
 
