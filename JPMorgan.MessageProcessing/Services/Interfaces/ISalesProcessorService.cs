@@ -14,5 +14,6 @@ namespace JPMorgan.MessageProcessing.Services.Interfaces
         public void Process(List<MessageDto> messages);
         public void Process(MessageDto messageDto);
         public void Restart();
+        public void GenerateReport();
     }
 }
