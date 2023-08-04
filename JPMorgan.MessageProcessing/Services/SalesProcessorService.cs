@@ -4,7 +4,7 @@ using JPMorgan.MessageProcessing.Enums;
 
 namespace JPMorgan.MessageProcessing.Services
 {
-    public sealed class SalesProcessorService
+    public sealed class SalesProcessorService:ISalesProcessorService
     {
         private readonly int LOG_SALES_DETAILS_INDEX = 10;
         private readonly int PAUSE_APPLICATION_INDEX = 50;
