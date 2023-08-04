@@ -1,0 +1,15 @@
+C:\Users\sergi\IT\JPMorgan.MessageProcessing\JPMorgan.MessageProcessing\bin\Debug\net6.0\JPMorgan.MessageProcessing.exe
+C:\Users\sergi\IT\JPMorgan.MessageProcessing\JPMorgan.MessageProcessing\bin\Debug\net6.0\JPMorgan.MessageProcessing.deps.json
+C:\Users\sergi\IT\JPMorgan.MessageProcessing\JPMorgan.MessageProcessing\bin\Debug\net6.0\JPMorgan.MessageProcessing.runtimeconfig.json
+C:\Users\sergi\IT\JPMorgan.MessageProcessing\JPMorgan.MessageProcessing\bin\Debug\net6.0\JPMorgan.MessageProcessing.dll
+C:\Users\sergi\IT\JPMorgan.MessageProcessing\JPMorgan.MessageProcessing\bin\Debug\net6.0\JPMorgan.MessageProcessing.pdb
+C:\Users\sergi\IT\JPMorgan.MessageProcessing\JPMorgan.MessageProcessing\obj\Debug\net6.0\JPMorgan.MessageProcessing.csproj.AssemblyReference.cache
+C:\Users\sergi\IT\JPMorgan.MessageProcessing\JPMorgan.MessageProcessing\obj\Debug\net6.0\JPMorgan.MessageProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\IT\JPMorgan.MessageProcessing\JPMorgan.MessageProcessing\obj\Debug\net6.0\JPMorgan.MessageProcessing.AssemblyInfoInputs.cache
+C:\Users\sergi\IT\JPMorgan.MessageProcessing\JPMorgan.MessageProcessing\obj\Debug\net6.0\JPMorgan.MessageProcessing.AssemblyInfo.cs
+C:\Users\sergi\IT\JPMorgan.MessageProcessing\JPMorgan.MessageProcessing\obj\Debug\net6.0\JPMorgan.MessageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\sergi\IT\JPMorgan.MessageProcessing\JPMorgan.MessageProcessing\obj\Debug\net6.0\JPMorgan.MessageProcessing.dll
+C:\Users\sergi\IT\JPMorgan.MessageProcessing\JPMorgan.MessageProcessing\obj\Debug\net6.0\refint\JPMorgan.MessageProcessing.dll
+C:\Users\sergi\IT\JPMorgan.MessageProcessing\JPMorgan.MessageProcessing\obj\Debug\net6.0\JPMorgan.MessageProcessing.pdb
+C:\Users\sergi\IT\JPMorgan.MessageProcessing\JPMorgan.MessageProcessing\obj\Debug\net6.0\JPMorgan.MessageProcessing.genruntimeconfig.cache
+C:\Users\sergi\IT\JPMorgan.MessageProcessing\JPMorgan.MessageProcessing\obj\Debug\net6.0\ref\JPMorgan.MessageProcessing.dll

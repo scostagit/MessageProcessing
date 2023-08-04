@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPMorgan.MessageProcessing", "JPMorgan.MessageProcessing\JPMorgan.MessageProcessing.csproj", "{DB5DC8F5-B2CD-4EC7-99C4-3A4D5DD451FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPMorgan.MessageProcessing.UnitTest", "JPMorgan.MessageProcessing.UnitTest\JPMorgan.MessageProcessing.UnitTest.csproj", "{CA509FD7-C2BE-467A-B223-FAEE6ABDC359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB5DC8F5-B2CD-4EC7-99C4-3A4D5DD451FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5DC8F5-B2CD-4EC7-99C4-3A4D5DD451FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5DC8F5-B2CD-4EC7-99C4-3A4D5DD451FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5DC8F5-B2CD-4EC7-99C4-3A4D5DD451FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA509FD7-C2BE-467A-B223-FAEE6ABDC359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA509FD7-C2BE-467A-B223-FAEE6ABDC359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA509FD7-C2BE-467A-B223-FAEE6ABDC359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA509FD7-C2BE-467A-B223-FAEE6ABDC359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F28E5BA7-62FC-4D01-A149-16C873A7C748}
+	EndGlobalSection
+EndGlobal
